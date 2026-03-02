@@ -1,1 +1,3 @@
-# supabase-dev
+# Supabase Dev
+
+Personal notes and resources.
