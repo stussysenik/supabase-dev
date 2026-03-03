@@ -1,7 +1,10 @@
+Repository: supabase-dev
+Generated: 2026-03-03
+
+Source: README.md
+
 # Supabase Dev
-
 Personal notes and resources.
-
 ## Documentation & Proof
 - Project narrative: [docs/PROJECT_NARRATIVE.md](docs/PROJECT_NARRATIVE.md)
 - CI guard: [.github/workflows/documentation-proof.yml](.github/workflows/documentation-proof.yml)
